@@ -1,0 +1,12 @@
+wrote: 3/4/2022
+i am in the minute 25
+i already wrote the dao and model classes.
+we need to work in the web/patientServlet class which i prob will write it tmrw 4/5/2022. 
+
+issues:
+we have to setup our won server using mysql and idk how is going to work, so we prob gonna need to do some investigation to make it work since 
+the video doesnt talk much about it on who to set it up. 
+
+ToDo:
+*do the patientServelt class and modify it for our tastes
+*include the sort and search algorithms in the DAO class 
